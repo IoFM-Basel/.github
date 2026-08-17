@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 # Forensic Medicine & Imaging Research Group
 
 Institute of Forensic Medicine · [Department of Biomedical Engineering](https://dbe.unibas.ch/en/), University of Basel
@@ -44,4 +42,3 @@ Pestalozzistrasse 22
 4056 Basel, Switzerland
 
 For collaboration or questions about a specific project, please reach out via the [research group page](https://dbe.unibas.ch/en/research/emerging/forensic-medicine-imaging-research-group/) or open an issue on the relevant repository.
--->
