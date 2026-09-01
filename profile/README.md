@@ -1,39 +1,30 @@
 ## Hi there 👋
 
-# Forensic Medicine & Imaging Research Group
+# Research at the Forensic Institute of Medicine Basel
 
 Institute of Forensic Medicine · [Department of Biomedical Engineering](https://dbe.unibas.ch/en/), University of Basel
 
-We integrate advanced imaging technologies and computational methods into forensic routine. Our work centres on the forensic use of CT, MRI, and infrared photography — primarily postmortem, and in specific cases such as strangulation also in vivo. This organization hosts the software, analysis pipelines, and digital tools that come out of that research.
+The institute is organised into four departments: Forensic Medicine, Traffic Medicine, Forensic Genetics, and Forensic Chemistry and Toxicology. In addition to forensic investigations, analyses and expert reports for judicial and administrative authorities, the institute teaches at the University of Basel and conducts research in forensic imaging, forensic genetics, and forensic chemistry and toxicology.
 
-## Research focus
 
-- **Quantitative MRI under postmortem conditions** — validating quantitative MRI parameters and identifying imaging-based biomarkers for detecting pathologies.
-- **AI-based cause-of-death analysis** — developing automated methods to analyse causes of death from imaging data.
-- **Forensic identification** — computational approaches for identifying deceased individuals.
-- **Digital tools & apps** — translating research into practice, for example in time-of-death estimation.
-- **Biomechanical modelling** — forensic application of biomechanics, particularly in cases of fatal falls.
+## Groups
 
-## About the group
-
+# Forensic Medicine & Imaging
 Our interdisciplinary team brings together backgrounds in medicine, physics, and biomedical engineering, acting as a bridge between forensic routine and basic research in biomedical technology. The aim is to develop validated methods and new standards for forensic practice.
-
 The group is led by **PD Dr. phil. Claudia Lenz**, Head of Forensic Medicine & Imaging Research, and sits within the *Emerging Analytical & Forensic Technologies* area of the DBE.
-
-## Using this code
-
-Repositories here support active research. Unless a repository states otherwise:
-
-- Code is provided for research and reproducibility purposes and may require domain expertise to run.
-- Tools intended for forensic or clinical use are validated within their specific study context — check each repository's documentation before relying on results.
-- See individual repositories for installation instructions, dependencies, and licensing.
-
-## Links
 
 - **Research group** — https://dbe.unibas.ch/en/research/emerging/forensic-medicine-imaging-research-group/
 - **Research projects** — https://dbe.unibas.ch/en/research/emerging/forensic-medicine-imaging-research-group/research-projects/
 - **Group members** — https://dbe.unibas.ch/en/research/emerging/forensic-medicine-imaging-research-group/group-members/
 - **Publications** — https://dbe.unibas.ch/en/research/emerging/forensic-medicine-imaging-research-group/publications/
+
+# Forensic Genetics 
+Our research group focuses on developing new technologies and improving existing forensic genetic methodologies. Current projects include (1) optimizing biological material collection, such as touch DNA sampling with the mobile DNA-Buster; (2) advance state-of-the-art techniques for separating mixed DNA traces into their individual components using the DEPArray™ technology; (3) integrating RNA-based methods for identifying body fluids alongside DNA workflows to improve crime reconstruction; and (4) advancing DNA analysis for phenotype, ancestry, and age prediction using next-generation sequencing (NGS).
+
+
+
+# Forensic Chemistry & Toxicology
+
 
 ## Contact
 
