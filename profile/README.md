@@ -2,7 +2,7 @@
 
 Institute of Forensic Medicine · [Department of Biomedical Engineering](https://dbe.unibas.ch/en/), University of Basel
 
-The institute is organised into four departments: Forensic Medicine, Traffic Medicine, Forensic Genetics, and Forensic Chemistry and Toxicology. In addition to forensic investigations, analyses and expert reports for judicial and administrative authorities, the institute teaches at the University of Basel and conducts research in forensic imaging, forensic genetics, and forensic chemistry and toxicology.
+The institute is organised into different departments: Forensic Medicine & Traffic Medicine, Forensic Genetics, and Forensic Chemistry & Toxicology. In addition to forensic investigations, analyses and expert reports for judicial and administrative authorities, the institute teaches at the University of Basel and conducts research in forensic imaging, forensic genetics, and forensic chemistry and toxicology.
 
 
 # Groups
